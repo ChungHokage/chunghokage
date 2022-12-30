@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @ChungHokage.I'm 19 years old. I'm from VietNam. My hometown is Nam Dinh province.
-- 👀 I’m interested in playing videogames and football
-- 🌱 I’m currently learning Information Technology in Hanoi University of Industry
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hello bro, My name is ChungHokage. I'm a the third year student in a University in HaNoi. 
 - 📫 Contact me to work. My mail is chunglight01@gmail.com
 
 <!---
